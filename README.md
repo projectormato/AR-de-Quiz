@@ -2,10 +2,10 @@
 Simple quiz using [AR.js](https://github.com/jeromeetienne/AR.js)
 
 ### Try
-access  
+Please access  
 https://projectormato.github.io/ARdeQuiz/
 
-take this marker
+Please take a marker
 ![marker](https://projectormato.github.io/ARdeQuiz/img/quiz.png)
 
 ### more information
