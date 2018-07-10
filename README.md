@@ -6,7 +6,7 @@ access
 https://projectormato.github.io/ARdeQuiz/
 
 take this marker
-![marker](https://projectormato.github.io/ARdeQuiz/quiz.png)
+![marker](https://projectormato.github.io/ARdeQuiz/img/quiz.png)
 
 ### more information
 explanation in Japanese  
